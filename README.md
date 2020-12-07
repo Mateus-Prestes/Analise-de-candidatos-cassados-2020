@@ -1,7 +1,7 @@
 # Analise de candidatos em São Paulo 2020
 
 
-### Este repositório tem por finalidade fazer um tratamento de dados relacionados a cassação de candidatos em 2020. Para a confecção deste trabalho utilizamos duas bases de dados: "consulta_cand2020_SP.csv" e "motivo_cassacao_2020.csv". Estes arquivos podem ser encontrados na fonte de dados descrita abaixo. É possivel gerar o grafico de qualquer estado apenas mudando a base de dados.
+### Este repositório tem por finalidade fazer um tratamento de dados relacionados a cassação de candidatos em 2020. Para a confecção deste trabalho utilizamos duas bases de dados: "consulta_cand2020_SP.csv" e "motivo_cassacao_2020.csv". Estes arquivos podem ser encontrados na fonte de dados descrita abaixo. É possivel gerar o grafico de qualquer estado do país apenas mudando a planilha, desde que ela seja da mesma base de dados.
 
 ### 3º Semestre ADS - FATEC São José dos Campos
 ### Matéria : Estrutura de dados
