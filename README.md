@@ -24,3 +24,4 @@ Tratamento de dados e plotagem de gráficos com base em -
 
 ![Captura de tela 2020-12-07 021704](https://user-images.githubusercontent.com/56441428/101312377-5de8f300-3832-11eb-9a85-8eb5a3ee4060.png)
 
+## Para Acessar as análises(Jupyter Notebook) clique acesse o link: https://github.com/lucasokazaki/Analise-de-candidatos-cassados-2020/blob/master/Analise%20candidatos%20SP%20elei%C3%A7%C3%B5es%202020.ipynb
